@@ -1,62 +1,59 @@
-# Entrega Final - Clone web
+# CaC Movies
 
-## Table of Contents
-- [Entrega Final - Clone web](#entrega-final---clone-web)
-  - [Table of Contents](#table-of-contents)
-    - [Comision 2104](#comision-2104)
-    - [Grupo 7](#grupo-7)
-    - [Información General](#información-general)
-    - [Screenshot](#screenshot)
-  - [Tecnologías](#tecnologías)
-  - [Modificaciones](#modificaciones)
+CaC Movies is an online platform designed to offer you an unmatched experience when watching your favorite series and movies. With an intuitive interface and an extensive content library, CAC Movies is the ideal place for all film and television lovers.
 
-### Comision 2104
-***
-### Grupo 7
-***
-* [Integrante 1] Jorge Gustavo Martinez
-* [Integrante 2] Facundo Baeza
-* [Integrante 3] Francis Damian Nahuel Rodríguez González
-* [Integrante 4] Elias Paredes
-* [Integrante 5] Martin Sebastian Tigani
-* [Integrante 6] Maira Farias
+*This project is a finished demo, it's not intended for real world usage.*
 
-### Información General
+## Development team
 
-Trabajo práctico integrador
-Grupos separados: Comisión 24104
+* Lautaro Colella
+* Jorge Gustavo Martinez
+* Facundo Baeza
+* Francis Damian Nahuel Rodríguez González
+* Elias Paredes
+* Martin Sebastian Tigani
+* Maira Farias
 
-Pre-Entrega Integrador Front:
+## Preview
 
-Deberán replicar la siguiente Página Web con lo visto en clase hasta el momento, puede ser código nativo o Bootstrap
+<details>
+	<summary>Screenshoots</summary>
 
-https://giselemilagros88.github.io/cac_movies_javaphp/
+![Screenshoot of the project's demo](/preview/1.PNG)
+![Screenshoot of the project's demo](/preview/2.PNG)
+![Screenshoot of the project's demo](/preview/3.PNG)
+![Screenshoot of the project's demo](/preview/4.PNG)
+![Screenshoot of the project's demo](/preview/5.PNG)
+![Screenshoot of the project's demo](/preview/6.PNG)
+![Screenshoot of the project's demo](/preview/0.PNG)
+![Screenshoot of the project's demo](/preview/7.PNG)
+![Screenshoot of the project's demo](/preview/8.PNG)
+![Screenshoot of the project's demo](/preview/9.PNG)
+![Screenshoot of the project's demo](/preview/10.PNG)
+![Screenshoot of the project's demo](/preview/11.PNG)
+![Screenshoot of the project's demo](/preview/12.PNG)
+![Screenshoot of the project's demo](/preview/13.PNG)
+![Screenshoot of the project's demo](/preview/14.PNG)
+![Screenshoot of the project's demo](/preview/15.PNG)
+![Screenshoot of the project's demo](/preview/16.PNG)
+</details>
 
-*Es importante recordar que quizá algunos eligieron una temática distinta a la planteada, y es válida la entrega mientras se respete la estructura base
+## Used technologies
 
-La entrega será pegando el link de donde está alojado su trabajo, puede ser cualquiera de las siguientes alternativas: 
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+- ![Marvel API](https://img.shields.io/badge/Marvel%20API-E62429?style=for-the-badge&logo=marvel&logoColor=white)
 
+## License
 
+This project is licensed under the MIT License.
 
-### Screenshot
-![Image text](https://www.tnlcomputer.com.ar/imagenPortada.png)
+### Copyright 2024 CaC Movies
 
-## Tecnologías
-***
-Tecnologias utilizadas en el proyecto:
-* [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
-* [CSS](https://developer.mozilla.org/es/docs/Web/CSS): Version 3
-* [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
-* [api Marvel](https://developer.marvel.com/docs)
-* [Java](https://www.oracle.com/ar/java/technologies/downloads/#java17): Version 17 
-* [Java](https://docs.oracle.com/en/): Documentación
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-## Modificaciones
-* Se agrego el menu hamburguesa a partir de los 768px
-* Se agrego Api Marvel, llamando a la api de series
-* Se agrego la ayuda
-* Se agrego los Términos y Condiciones
-* Se agregaron las validciones en el Identificarse y Registrarse.
-* Se agrego un Json con las Tendendias para manejar la paginación.
-* Se divide el Front del Back para una mejor estructura del proyecto. 
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
